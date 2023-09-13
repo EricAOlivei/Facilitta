@@ -131,3 +131,7 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+# Ignorar arquivos .vsidx e .lock na pasta FileContentIndex
+FileContentIndex/*.vsidx
+FileContentIndex/*.lock
